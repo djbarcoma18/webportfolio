@@ -1,0 +1,193 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+	font-family: 'Orelega One', cursive;
+}
+
+
+.Navlogo {
+	height: 50px;
+	width: 50px;
+	border-radius: 25px;
+}
+
+.card-header {
+	font-size: 30px;
+	background-color: white;
+}
+
+.blockquote {
+	font-style: italic;
+}
+
+body {
+	background-color: black;
+}
+
+.ProfilePic {
+	width: 350px;
+	height: 400px;
+	border-radius: 200px;
+}
+
+.AboutMe {
+	padding-top: 50px;
+	padding-bottom: 20px;
+	font-size: 50px;
+	text-align: center;
+	color: white;
+}
+
+.PersonIcon {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	margin-right: 10px;
+}
+
+.EducationIcon {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	margin-right: 10px;
+}
+
+.WorkIcon {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	margin-right: 10px;
+}
+
+.skillsicon {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+	margin-right: 10px;
+}
+
+.Icons2 img {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+}
+
+
+.Icons2 img {
+	width: 50px;
+	height: 50px;
+	border-radius: 25px;
+}
+
+.FrontText {
+	text-align: center;
+	color: white;
+}
+
+.FrontTextLink {
+	text-decoration: none;
+	color: whitesmoke;
+	align-content: center;
+}
+
+.FrontEnd {
+	border: 2px;
+	border-color: white;
+}
+
+.ContactTitle {
+	color: white;
+	margin-top: 200px;
+}
+
+.FooterSec {
+	margin-top: 30px;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	background-color: #2d2d86;
+	color: white;
+}
+
+.iframe {
+	height: 300px;
+	padding-top: 20px;
+	width: 50em;
+}
+
+@media (min-width: 320px) {
+	.ProjectTitle {
+		text-align: center;
+		color: white;
+		font-size: 2rem;
+		margin-top: 100px;
+		margin-bottom: 50px;
+	}
+	.ProfilePic {
+	width: 300px;
+	height: 350px;
+	border-radius: 150px;
+}
+
+	.ContactTitle {
+		margin-left: 40px;
+}
+
+}
+
+@media (min-width: 768px) {
+
+	.logo1 {
+		margin-left: 20px;
+}
+
+	.Skillsicon2 {
+		margin-left: 125px;
+}
+
+
+	.ProjectTitle {
+		text-align: center;
+		color: white;
+		font-size: 3rem;
+		margin-top: 100px;
+		margin-bottom: 50px;
+}
+
+	.ProfilePic {
+	width: 350px;
+	height: 400px;
+	border-radius: 200px;
+	margin-left: 150px;
+}
+
+	.skilltitle {
+		margin: 20px;
+}
+
+
+	.card-body {
+		height: 150px;
+}
+}
+
+@media (min-width: 1024px) {
+	.ProfilePic {
+	width: 350px;
+	height: 400px;
+	border-radius: 200px;
+	margin-left: 10px;
+}
+
+.skilltitle {
+	margin: 5px;
+	}
+}
+
+
+@media (min-width: 1200px) {
+	.ContactTitle {
+		margin-left: 90px;
+	}
+}
+
